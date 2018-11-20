@@ -1,0 +1,9 @@
+D:\Bai Tap windown C#\Nhom 22\Do_an\bin\Debug\Do_an.exe.config
+D:\Bai Tap windown C#\Nhom 22\Do_an\bin\Debug\Do_an.exe
+D:\Bai Tap windown C#\Nhom 22\Do_an\bin\Debug\Do_an.pdb
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.csprojResolveAssemblyReference.cache
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.FrmLogin.resources
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.Properties.Resources.resources
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.csproj.GenerateResource.Cache
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.exe
+D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.pdb
