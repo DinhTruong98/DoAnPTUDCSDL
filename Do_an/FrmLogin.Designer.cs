@@ -65,7 +65,6 @@
             // 
             // txtMatKhau
             // 
-            this.txtMatKhau.Enabled = false;
             this.txtMatKhau.Location = new System.Drawing.Point(157, 71);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.Size = new System.Drawing.Size(164, 20);

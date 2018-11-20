@@ -7,3 +7,20 @@ D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.Properties.Resources.resourc
 D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.csproj.GenerateResource.Cache
 D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.exe
 D:\Bai Tap windown C#\Nhom 22\Do_an\obj\Debug\Do_an.pdb
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\bin\Debug\Do_an.exe.config
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\bin\Debug\Do_an.exe
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\bin\Debug\Do_an.pdb
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.csprojAssemblyReference.cache
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmAdd.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmAddByT.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmAddUser.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmGiaoVien.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmLogin.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmLogout.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmMain.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.FrmTraCuu.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.Properties.Resources.resources
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.csproj.GenerateResource.cache
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.csproj.CoreCompileInputs.cache
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.exe
+E:\GIT\DoAn\DoAnPTUDCSDL\Do_an\obj\Debug\Do_an.pdb
