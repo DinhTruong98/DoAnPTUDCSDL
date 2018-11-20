@@ -77,7 +77,7 @@
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.linkLabel1.Location = new System.Drawing.Point(153, 193);
+            this.linkLabel1.Location = new System.Drawing.Point(105, 148);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(130, 19);
             this.linkLabel1.TabIndex = 4;
@@ -88,7 +88,7 @@
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Blue;
-            this.button1.Location = new System.Drawing.Point(157, 131);
+            this.button1.Location = new System.Drawing.Point(109, 112);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 33);
             this.button1.TabIndex = 5;
