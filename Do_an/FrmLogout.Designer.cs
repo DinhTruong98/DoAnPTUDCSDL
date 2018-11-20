@@ -47,9 +47,9 @@
             // btnHuy
             // 
             this.btnHuy.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHuy.Location = new System.Drawing.Point(22, 96);
+            this.btnHuy.Location = new System.Drawing.Point(43, 96);
             this.btnHuy.Name = "btnHuy";
-            this.btnHuy.Size = new System.Drawing.Size(85, 34);
+            this.btnHuy.Size = new System.Drawing.Size(85, 33);
             this.btnHuy.TabIndex = 1;
             this.btnHuy.Text = "Hủy";
             this.btnHuy.UseVisualStyleBackColor = true;

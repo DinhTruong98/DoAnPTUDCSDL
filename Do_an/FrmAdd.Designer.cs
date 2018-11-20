@@ -118,7 +118,7 @@
             // btnHuy
             // 
             this.btnHuy.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHuy.Location = new System.Drawing.Point(30, 255);
+            this.btnHuy.Location = new System.Drawing.Point(69, 248);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(87, 36);
             this.btnHuy.TabIndex = 7;
@@ -128,7 +128,7 @@
             // btnXacNhan
             // 
             this.btnXacNhan.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXacNhan.Location = new System.Drawing.Point(150, 254);
+            this.btnXacNhan.Location = new System.Drawing.Point(162, 247);
             this.btnXacNhan.Name = "btnXacNhan";
             this.btnXacNhan.Size = new System.Drawing.Size(102, 37);
             this.btnXacNhan.TabIndex = 8;
